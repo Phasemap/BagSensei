@@ -33,30 +33,37 @@ ZephyraCore — это AI-движок для выявления скрытых 
 - Full Suite → 360° радар активности, сентимента, ликвидности и риска  
 
 ---
-
 ## 🗺 Roadmap
 
-### 🧱 Phase 1: Foundations *(Completed — Q3 2025)*
-- Chrome Extension v1  
-- Genesis Token $ALYS  
-- Core AI Signal Engine  
-- Telegram Bot Prototype  
-- On-Chain Promo Layer  
-- Token Insight Terminal  
+### ✅ Phase 1: Init Layer *(Completed — Q3 2025)*
+Laying the foundation for ZephyraCore's signal infrastructure and access protocols.  
+- 🧩 Chrome Extension (v1)  
+- 💠 $ZEPHYRA Token Deployment  
+- ⚙️ Base Signal Engine  
+- ✈️ Telegram App Alpha  
+- 🧭 Risk Pulse Prototype  
+- 🖥️ Explorer Mode UI  
 
-### 🚧 Phase 2: Expansion *(In Progress — Q3 2025)*
-- Aurora AI Engine v2  
-- Referral-Based Access Roles  
-- Chrome Extension v2  
-- Telegram Mini App  
-- Real-Time Scan Alerts  
-- Discord Role Layer Sync  
+---
 
-### 🌌 Phase 3: Horizon *(Planned — Q4 2025)*
-- Multi-Chain Token View  
-- AI Engine v3 — Deep Signal Model  
-- Mobile App Alpha  
-- Public Token Scanning Pages  
+### 🔄 Phase 2: Sync Layer *(In Progress — Q3 2025)*
+Enhancing access logic, real-time scanning, and multi-platform integration.  
+- 🧠 ZephEngine v2  
+- 🛡️ Access Roles via Wallet Tier  
+- 🔁 Chrome Extension (v2.1)  
+- 📡 Real-Time Scan Feed  
+- 🧩 Mini App Expansion  
+- 📢 Discord Signal Roles  
+
+---
+
+### 🧠 Phase 3: Trace Layer *(Planned — Q4 2025)*
+Deepening intelligence layers and user insight capabilities through traceable signals and cross-chain support.  
+- 🌐 Multi-Chain Token Tracker  
+- 🧬 AI Core v3 — Precision Learning  
+- 📱 Mobile Interface Beta  
+- 🪞 Public Verdict Viewer  
+
 
 ---
 
