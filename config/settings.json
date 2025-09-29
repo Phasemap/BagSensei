@@ -1,5 +1,5 @@
 {
-  "project": "Phasemap",
+  "project": "ZephyraCore",
   "version": "1.0.0",
   "description": "Modular risk detection engine for Web3 transaction profiling",
   "enabledModules": [
