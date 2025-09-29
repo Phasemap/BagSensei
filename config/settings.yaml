@@ -1,5 +1,5 @@
 app:
-  name: Phasemap
+  name: ZephyraCore
   version: 1.0
   environment: production
 api:
