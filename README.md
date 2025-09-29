@@ -1,84 +1,72 @@
-# 🛰 Phasemap: Blockchain Signal Mapping Engine  
+# 🌌 ZephyraCore — AI-Driven Blockchain Risk Engine
 
-**Phasemap** is an AI-powered signal engine that maps hidden blockchain activity into structured insights.  
-It transforms noisy on-chain data into clear intelligence streams — empowering traders, analysts, and security researchers with a visual and analytical edge.  
-
----
-
-## 🔗 Ecosystem Links  
-
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/phasemap/gkcpcbifdcopjdggokopmfekmigjfijk)  
-[![Docs](https://img.shields.io/badge/Docs-GitBook-3B82F6?logo=bookstack&logoColor=white)](https://phasemap.gitbook.io/phasemap-docs/)  
-[![Website](https://img.shields.io/badge/Web-PhasemapTech.com-0EA5E9?logo=vercel&logoColor=white)](https://phasemaptech.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/Phasemap/Phasemap)  
-[![Twitter](https://img.shields.io/badge/Twitter-@PhasemapTech-1DA1F2?logo=twitter&logoColor=white)](https://x.com/PhasemapTech)  
-[![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/PhasemapAI)  
+ZephyraCore — это AI-движок для выявления скрытых паттернов, аномалий токенов и искажений ликвидности в экосистеме Solana  
+Преобразует сырые ончейн-данные в понятные сигналы и инсайты для трейдеров, аналитиков и ресерчеров  
 
 ---
 
-## 🤖 Core Agents  
+## 🔗 Ecosystem Links
 
-Phasemap gives users a set of specialized agents to choose from — each tuned to different aspects of blockchain monitoring:  
-
-- 🧠 **Analyzer Agent** — token scans, risk profiling, contract safety evaluation  
-- 👛 **Wallet Tracker Agent** — whale activity, wallet clustering, recursive movement tracing  
-- 🌐 **Social Scanner Agent** — sentiment monitoring, narrative detection, media-driven signals  
-- 💧 **Liquidity Strateg Agent** — pool depth analysis, liquidity shifts, trading scenarios  
-
----
-
-## 🛠 Custom Agent Builder  
-
-With **Phasemap Custom Agent Builder**, you can design your own AI assistant by combining the logic of multiple agents:  
-
-- **Analyzer + Wallet Tracker** → forensic-grade monitoring of suspicious wallet groups  
-- **Social Scanner + Liquidity Strateg** → narrative-driven liquidity and market response analysis  
-- **Full Stack** (all four agents) → a complete blockchain radar for activity, liquidity, sentiment, and risk  
-
-⚡ Tailor your agent to match your trading style — defensive monitoring, aggressive gem hunting, or long-term strategic scanning.  
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zephyracore/lcnfmelmklejahfjfeafjlmfbbbeppgd?authuser=0&hl=ru)  
+[![Docs](https://img.shields.io/badge/Docs-GitBook-3B82F6?logo=bookstack&logoColor=white)](https://zephyracore.gitbook.io/zephyracore-docs/)  
+[![Website](https://img.shields.io/badge/Web-ZephyraCore.app-0EA5E9?logo=vercel&logoColor=white)](https://zephyracore.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/Phasemap/ZephyraCoreAI)  
+[![Twitter](https://img.shields.io/badge/Twitter-@ZephyraCore-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ZephyraCore)  
+[![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ZephyraCore)
 
 ---
 
-## 🗺 Roadmap  
+## 🤖 Core Agents
 
-### ✅ Phase 1: MVP *(Completed, Q3 2025)*  
-- Terminal Scanner  
-- Early AI Signals & Promo  
+- 🧠 **Analyzer Agent** — скан токенов, выявление аномалий, оценка безопасности контрактов  
+- 👛 **Wallet Observer Agent** — мониторинг китов, кластеризация кошельков, отслеживание подозрительных потоков  
+- 🌐 **Signal Agent** — трекинг нарративов и сентимента, медиасигналы  
+- 💧 **Liquidity Agent** — глубина пулов, стресс ликвидности, анализ своп-поведения  
+
+---
+
+## 🛠 Custom Agent Builder
+
+Комбинируй модули под свой стиль трейдинга  
+- Analyzer + Wallet Observer → форензика координированных акторов  
+- Signal + Liquidity → реакция ликвидности на нарратив  
+- Full Suite → 360° радар активности, сентимента, ликвидности и риска  
+
+---
+
+## 🗺 Roadmap
+
+### 🧱 Phase 1: Foundations *(Completed — Q3 2025)*
 - Chrome Extension v1  
-- Community Token **$PSMP**  
-- Core Risk Engine  
+- Genesis Token $ALYS  
+- Core AI Signal Engine  
+- Telegram Bot Prototype  
+- On-Chain Promo Layer  
+- Token Insight Terminal  
 
-### 🟡 Phase 2: Expansion *(In Progress, Q3 2025)*  
-- Role Sync (Discord)  
+### 🚧 Phase 2: Expansion *(In Progress — Q3 2025)*
+- Aurora AI Engine v2  
+- Referral-Based Access Roles  
 - Chrome Extension v2  
-- Real-Time Alerts  
 - Telegram Mini App  
-- AI Engine v2  
+- Real-Time Scan Alerts  
+- Discord Role Layer Sync  
 
-### 🔵 Phase 3: Advanced Rollout *(Planned, Q4 2025)*  
-- Token Profiles  
-- Threat Engine v3  
-- Cross-Chain Risk Index  
+### 🌌 Phase 3: Horizon *(Planned — Q4 2025)*
+- Multi-Chain Token View  
+- AI Engine v3 — Deep Signal Model  
 - Mobile App Alpha  
+- Public Token Scanning Pages  
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 
-- **TypeScript** — extension and app logic  
-- **React + Tailwind** — user interface  
-- **Node.js** — backend services  
-- **Solana Web3.js** — blockchain integration  
-- **Python Signal Engine** — AI-based detection models  
-- **PostgreSQL** — structured data storage  
-- **Redis** — real-time signal caching  
-- **REST + WebSocket APIs** — external integrations and live updates  
-
----
-
-## ❗ Disclaimer  
-
-Phasemap provides **signal intelligence only**.  
-It does not guarantee financial results or predict market outcomes. Always **DYOR** before making decisions.  
-
----
+- TypeScript  
+- React + Tailwind  
+- Node.js  
+- Solana Web3.js  
+- Python signal engine  
+- PostgreSQL  
+- Redis  
+- REST + WebSocket APIs  
