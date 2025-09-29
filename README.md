@@ -1,9 +1,26 @@
 # 🌌 ZephyraCore — AI-Driven Blockchain Risk Engine
 
-ZephyraCore — это AI-движок для выявления скрытых паттернов, аномалий токенов и искажений ликвидности в экосистеме Solana  
-Преобразует сырые ончейн-данные в понятные сигналы и инсайты для трейдеров, аналитиков и ресерчеров  
+ZephyraCore is an AI engine designed to detect hidden patterns, token anomalies, and liquidity distortions in the Solana ecosystem  
+It transforms raw on-chain data into clear signals and insights for traders, analysts, and researchers  
 
 ---
+
+## 🤖 Core Agents
+
+- 🧠 **Analyzer Agent** — token scans, anomaly detection, contract security evaluation  
+- 👛 **Wallet Observer Agent** — whale monitoring, wallet clustering, suspicious flow tracing  
+- 🌐 **Signal Agent** — narrative tracking, sentiment analysis, media-driven signals  
+- 💧 **Liquidity Agent** — pool depth analysis, liquidity stress detection, swap behavior monitoring  
+
+---
+
+## 🛠 Custom Agent Builder
+
+Combine modules to match your trading style  
+- **Analyzer + Wallet Observer** → forensic mapping of coordinated actors  
+- **Signal + Liquidity** → narrative-driven liquidity response tracking  
+- **Full Suite** → a 360° radar of activity, sentiment, liquidity, and risk  
+
 
 ## 🔗 Ecosystem Links
 
@@ -16,23 +33,6 @@ ZephyraCore — это AI-движок для выявления скрытых 
 
 ---
 
-## 🤖 Core Agents
-
-- 🧠 **Analyzer Agent** — скан токенов, выявление аномалий, оценка безопасности контрактов  
-- 👛 **Wallet Observer Agent** — мониторинг китов, кластеризация кошельков, отслеживание подозрительных потоков  
-- 🌐 **Signal Agent** — трекинг нарративов и сентимента, медиасигналы  
-- 💧 **Liquidity Agent** — глубина пулов, стресс ликвидности, анализ своп-поведения  
-
----
-
-## 🛠 Custom Agent Builder
-
-Комбинируй модули под свой стиль трейдинга  
-- Analyzer + Wallet Observer → форензика координированных акторов  
-- Signal + Liquidity → реакция ликвидности на нарратив  
-- Full Suite → 360° радар активности, сентимента, ликвидности и риска  
-
----
 ## 🗺 Roadmap
 
 ### ✅ Phase 1: Init Layer *(Completed — Q3 2025)*
