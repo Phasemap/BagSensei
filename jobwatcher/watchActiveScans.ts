@@ -13,7 +13,6 @@ export interface ScanJob {
 
 type Logger = (msg: string) => void
 
-// In-memory registry keyed by token (1 active job per token)
 const scanJobs = new Map<string, ScanJob>()
 
 /**
