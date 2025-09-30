@@ -15,10 +15,7 @@ type Logger = (msg: string) => void
 
 const scanJobs = new Map<string, ScanJob>()
 
-/**
- * Register a scan job for a token.
- * If a running job already exists and replace=false, returns the existing job unchanged.
- */
+
 export function registerScanJob(
   token: string,
   opts: { replace?: boolean; now?: number } = {}
