@@ -45,7 +45,6 @@ export function completeScanJob(token: string, opts: { now?: number } = {}): Sca
   return job
 }
 
-/** Mark a running job as failed and attach error message (optional). */
 export function failScanJob(
   token: string,
   error?: string,
@@ -59,7 +58,6 @@ export function failScanJob(
   return job
 }
 
-/** Restart a job (convenience): mark as running again and reset timers. */
 export function restartScanJob(token: string, opts: { now?: number } = {}): ScanJob {
   const now = opts.now ?? Date.now()
   const existing = scanJobs.get(token)
