@@ -37,7 +37,6 @@ export function registerScanJob(
   return job
 }
 
-/** Mark a running job as completed. No-op if no running job exists. */
 export function completeScanJob(token: string, opts: { now?: number } = {}): ScanJob | undefined {
   const job = scanJobs.get(token)
   if (!job || job.status !== "running") return job
