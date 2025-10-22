@@ -8,7 +8,6 @@ Lockra turns on-chain complexity into an intuitive interface with built-in AI ri
 
 [![Docs](https://img.shields.io/badge/Docs-GitBook-3B82F6?logo=bookstack&logoColor=white)](https://lockra-wallet.gitbook.io/lockra-wallet-docs/)  
 [![Website](https://img.shields.io/badge/Web-lockra.app-0EA5E9?logo=vercel&logoColor=white)](https://www.lockra.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/lockra-wallet)  
 [![Twitter](https://img.shields.io/badge/Twitter-@LockraWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/LockraWallet)  
 [![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lockrawallet)
 
