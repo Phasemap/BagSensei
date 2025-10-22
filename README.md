@@ -1,79 +1,98 @@
-# 🌌 ZephyraCore — AI-Driven Blockchain Risk Engine
+# 🔐 Lockra Wallet — Secure Solana Custody Layer
 
-ZephyraCore is an AI engine designed to detect hidden patterns, token anomalies, and liquidity distortions in the Solana ecosystem  
-It transforms raw on-chain data into clear signals and insights for traders, analysts, and researchers  
-
----
-
-## 🤖 Core Agents
-
-- 🧠 **Analyzer Agent** — token scans, anomaly detection, contract security evaluation  
-- 👛 **Wallet Observer Agent** — whale monitoring, wallet clustering, suspicious flow tracing  
-- 🌐 **Signal Agent** — narrative tracking, sentiment analysis, media-driven signals  
-- 💧 **Liquidity Agent** — pool depth analysis, liquidity stress detection, swap behavior monitoring  
-
----
-
-## 🛠 Custom Agent Builder
-
-Combine modules to match your trading style  
-- **Analyzer + Wallet Observer** → forensic mapping of coordinated actors  
-- **Signal + Liquidity** → narrative-driven liquidity response tracking  
-- **Full Suite** → a 360° radar of activity, sentiment, liquidity, and risk  
-
+## Overview
+Lockra Wallet provides robust custody, seamless wallet management, and real-time threat detection for Solana users  
+Lockra turns on-chain complexity into an intuitive interface with built-in AI risk insights
 
 ## 🔗 Ecosystem Links
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zephyracore/lcnfmelmklejahfjfeafjlmfbbbeppgd?authuser=0&hl=ru)  
-[![Docs](https://img.shields.io/badge/Docs-GitBook-3B82F6?logo=bookstack&logoColor=white)](https://zephyracore.gitbook.io/zephyracore-docs/)  
-[![Website](https://img.shields.io/badge/Web-ZephyraCore.app-0EA5E9?logo=vercel&logoColor=white)](https://zephyracore.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/Phasemap/ZephyraCoreAI)  
-[![Twitter](https://img.shields.io/badge/Twitter-@ZephyraCore-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ZephyraCore)  
-[![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ZephyraCore)
-
----
-
-## 🗺 Roadmap
-
-### ✅ Phase 1: Init Layer *(Completed — Q3 2025)*
-Laying the foundation for ZephyraCore's signal infrastructure and access protocols.  
-- 🧩 Chrome Extension (v1)  
-- 💠 $ZEPHYRA Token Deployment  
-- ⚙️ Base Signal Engine  
-- ✈️ Telegram App Alpha  
-- 🧭 Risk Pulse Prototype  
-- 🖥️ Explorer Mode UI  
-
----
-
-### 🔄 Phase 2: Sync Layer *(In Progress — Q3 2025)*
-Enhancing access logic, real-time scanning, and multi-platform integration.  
-- 🧠 ZephEngine v2  
-- 🛡️ Access Roles via Wallet Tier  
-- 🔁 Chrome Extension (v2.1)  
-- 📡 Real-Time Scan Feed  
-- 🧩 Mini App Expansion  
-- 📢 Discord Signal Roles  
-
----
-
-### 🧠 Phase 3: Trace Layer *(Planned — Q4 2025)*
-Deepening intelligence layers and user insight capabilities through traceable signals and cross-chain support.  
-- 🌐 Multi-Chain Token Tracker  
-- 🧬 AI Core v3 — Precision Learning  
-- 📱 Mobile Interface Beta  
-- 🪞 Public Verdict Viewer  
+[![Docs](https://img.shields.io/badge/Docs-GitBook-3B82F6?logo=bookstack&logoColor=white)](https://lockra-wallet.gitbook.io/lockra-wallet-docs/)  
+[![Website](https://img.shields.io/badge/Web-lockra.app-0EA5E9?logo=vercel&logoColor=white)](https://www.lockra.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/lockra-wallet)  
+[![Twitter](https://img.shields.io/badge/Twitter-@LockraWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/LockraWallet)  
+[![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lockrawallet)
 
 
----
+## Core Modules
 
-## ⚙️ Tech Stack
+- 📊 **Analyzer Agent** — token scans, anomaly detection, contract risk evaluation  
+- 👀 **Wallet Observer Agent** — whale tracking, wallet clustering, suspicious flow mapping  
+- 📡 **Signal Agent** — alert streams, sentiment monitoring, media-triggered indicators  
+- 💧 **Liquidity Agent** — pool depth scans, liquidity pressure analysis, swap flow monitoring  
+- 🛠 **Custom Agent Builder** — assemble tailored stacks for your trading or research workflow
 
-- TypeScript  
-- React + Tailwind  
-- Node.js  
-- Solana Web3.js  
-- Python signal engine  
-- PostgreSQL  
-- Redis  
-- REST + WebSocket APIs  
+### Typical combinations
+
+- **Analyzer + Wallet Observer** → forensic wallet and token mapping  
+- **Signal + Liquidity** → sentiment-driven liquidity response tracking  
+- **Full Suite** → unified 360° view of wallets, liquidity, sentiment, and risk
+
+## Quick Features
+
+- Multi-wallet management with role-based access via wallet tiers  
+- Real-time security feed via WebSocket for live alerts  
+- Chrome extension for instant in-browser protection and action prompts  
+- Telegram mini app for lightweight on-the-go monitoring  
+- Explorer dashboard for forensic investigations and address deep dives  
+- Exportable reports in JSON and CSV for audits and compliance
+
+## Roadmap
+
+### ✔ Stage One — Vault Layer (Completed — Q3 2025)  
+foundation for custody logic, base signal scanning, and explorer UI
+
+- Chrome Extension v1  
+- $LOCKRA token configuration and metadata registry  
+- Base Security Engine and threat pulse prototype  
+- Telegram Mini App alpha
+
+### ⏳ Stage Two — Sentinel Layer (In Progress — Q3 2025)  
+expanding tiers, real-time scanning, and cross-platform sync
+
+- Lockra Engine v2 with role-based access  
+- Chrome Extension v2.1 with actionable alerts  
+- Real-Time Security Feed via WebSocket  
+- Mini App rollout and Discord signal roles
+
+### 🛰 Stage Three — Horizon Layer (Planned — Q4 2025)  
+deep threat learning, cross-chain wallet intelligence, and public verdicts
+
+- Multi-chain wallet and token tracker  
+- AI Core v3 for advanced threat learning  
+- Mobile app beta and public verdict explorer
+
+## Tech Stack
+
+- TypeScript for frontend and serverless functions  
+- React + Tailwind UI for product interfaces  
+- Node.js backend services and worker processes  
+- Solana Web3.js for RPC ingestion and on-chain reads  
+- Python risk engine for signal processing and ML workflows  
+- PostgreSQL for event and audit storage  
+- Redis for caching and rate limiting  
+- REST + WebSocket APIs for integrations and real-time feeds
+
+## Integrations
+
+- chrome extension for in-browser protection and swap analysis  
+- telegram mini app for lightweight monitoring and quick pings  
+- discord for role-based signal distribution and community alerts  
+- api endpoints for programmatic access and sdk clients
+
+## Security & Privacy
+
+- no private keys are stored on Lockra servers  
+- TLS 1.3 encryption for all transport layers  
+- quarterly audits and continuous monitoring for critical components  
+- privacy policy and terms available in docs
+
+## Disclaimer
+
+- this project is not financial advice and is provided for informational and tool usage purposes only  
+- data may include derived insights and emulated scenarios for testing, always DYOR
+
+## Contributing
+
+- open issues and pull requests welcome in the GitHub repo  
+- follow the contribution guidelines in the docs for feature requests and bug reports
+
