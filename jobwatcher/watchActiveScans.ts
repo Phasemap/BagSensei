@@ -1,4 +1,3 @@
-// scan-jobs.ts
 
 export type ScanStatus = "running" | "completed" | "failed"
 
