@@ -9,7 +9,7 @@ It unifies secure wallet control with AI-driven scanning, turning on-chain activ
 
 [![Website](https://img.shields.io/badge/Web-sparklitcore.com-8B5CF6?logo=vercel&logoColor=white)](https://www.sparklitcore.com/)  
 [![Docs](https://img.shields.io/badge/Docs-GitBook-9333EA?logo=bookstack&logoColor=white)](https://sparklitwallet.gitbook.io/sparklitwallet-docs/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@SparklitWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SparklitWallet)  
+[![Twitter](https://img.shields.io/badge/Twitter-@SparklitWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SparklitCore)  
 [![Telegram](https://img.shields.io/badge/Telegram-Community-6366F1?logo=telegram&logoColor=white)](https://t.me/sparklitcore)  
 
 ---
