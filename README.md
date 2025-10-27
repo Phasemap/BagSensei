@@ -40,30 +40,6 @@ It unifies secure wallet control with AI-driven scanning, turning on-chain activ
 
 ---
 
-## 🗺 Roadmap
-
-### 🔑 Phase One — Spark Layer (Q3 2025, complete)  
-custody logic, base explorer, early alert engine  
-- Extension v1  
-- $SPARKLIT token registry  
-- Threat pulse prototype  
-- Mini app alpha  
-
-### 🚨 Phase Two — Signal Layer (Q3 2025, active)  
-tiered scanning, sync, actionable feeds  
-- Engine v2 with roles  
-- Extension v2.1 with alerts  
-- Real-time WebSocket security feed  
-- Discord signal distribution  
-
-### 🌐 Phase Three — Horizon Layer (Q4 2025, planned)  
-cross-chain intelligence, ML verdicts, mobile  
-- Multi-chain wallet + token tracker  
-- AI Core v3 for threat learning  
-- Mobile beta and verdict explorer  
-
----
-
 ## 🛠 Tech Stack
 
 - TypeScript + React/Tailwind UI  
