@@ -1,97 +1,107 @@
-# 🔐 Lockra Wallet — Secure Solana Custody Layer
+# ✨ Sparklit — AI-Powered Wallet Intelligence
 
-## Overview
-Lockra Wallet provides robust custody, seamless wallet management, and real-time threat detection for Solana users  
-Lockra turns on-chain complexity into an intuitive interface with built-in AI risk insights
+Sparklit is a custody-first intelligence layer for Solana  
+It unifies secure wallet control with AI-driven scanning, turning on-chain activity into clear insights
 
-## 🔗 Ecosystem Links
+---
 
-[![Docs](https://img.shields.io/badge/Docs-GitBook-3B82F6?logo=bookstack&logoColor=white)](https://lockra-wallet.gitbook.io/lockra-wallet-docs/)  
-[![Website](https://img.shields.io/badge/Web-lockra.app-0EA5E9?logo=vercel&logoColor=white)](https://www.lockra.app/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@LockraWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/LockraWallet)  
-[![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lockrawallet)
+## 🔗 Ecosystem
 
+[![Website](https://img.shields.io/badge/Web-sparklitcore.com-8B5CF6?logo=vercel&logoColor=white)](https://www.sparklitcore.com/)  
+[![Docs](https://img.shields.io/badge/Docs-GitBook-9333EA?logo=bookstack&logoColor=white)](https://sparklitwallet.gitbook.io/sparklitwallet-docs/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@SparklitWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SparklitWallet)  
+[![Telegram](https://img.shields.io/badge/Telegram-Community-6366F1?logo=telegram&logoColor=white)](https://t.me/sparklitcore)  
 
-## Core Modules
+---
 
-- 📊 **Analyzer Agent** — token scans, anomaly detection, contract risk evaluation  
-- 👀 **Wallet Observer Agent** — whale tracking, wallet clustering, suspicious flow mapping  
-- 📡 **Signal Agent** — alert streams, sentiment monitoring, media-triggered indicators  
-- 💧 **Liquidity Agent** — pool depth scans, liquidity pressure analysis, swap flow monitoring  
-- 🛠 **Custom Agent Builder** — assemble tailored stacks for your trading or research workflow
+## ⚙ Core Agents
 
-### Typical combinations
+- 🔍 **Scan Agent** — token anomaly checks and contract risk scoring  
+- 🐋 **Flow Agent** — whale tracing, wallet clustering, stealth mapping  
+- 📢 **Pulse Agent** — live alerts, sentiment indicators, market mood scans  
+- 🌊 **Depth Agent** — liquidity pool monitoring, swap flows, pressure signals  
+- ⚡ **Builder** — custom agent stacks tailored to trading or research styles  
 
-- **Analyzer + Wallet Observer** → forensic wallet and token mapping  
-- **Signal + Liquidity** → sentiment-driven liquidity response tracking  
-- **Full Suite** → unified 360° view of wallets, liquidity, sentiment, and risk
+**Example setups**  
+- Scan + Flow → forensic wallet and contract mapping  
+- Pulse + Depth → liquidity reaction + sentiment overlays  
+- Full Pack → unified 360° chain intelligence  
 
-## Quick Features
+---
 
-- Multi-wallet management with role-based access via wallet tiers  
-- Real-time security feed via WebSocket for live alerts  
-- Chrome extension for instant in-browser protection and action prompts  
-- Telegram mini app for lightweight on-the-go monitoring  
-- Explorer dashboard for forensic investigations and address deep dives  
-- Exportable reports in JSON and CSV for audits and compliance
+## 🚀 Features
 
-## Roadmap
+- Multi-wallet management with tiered roles  
+- Real-time WebSocket alerts  
+- Chrome extension for swap safety and browser-side prompts  
+- Telegram mini app for mobile monitoring  
+- Forensic dashboard for deep address analysis  
+- Export in JSON/CSV for audits and compliance  
 
-### ✔ Stage One — Vault Layer (Completed — Q3 2025)  
-foundation for custody logic, base signal scanning, and explorer UI
+---
 
-- Chrome Extension v1  
-- $LOCKRA token configuration and metadata registry  
-- Base Security Engine and threat pulse prototype  
-- Telegram Mini App alpha
+## 🗺 Roadmap
 
-### ⏳ Stage Two — Sentinel Layer (In Progress — Q3 2025)  
-expanding tiers, real-time scanning, and cross-platform sync
+### 🔑 Phase One — Spark Layer (Q3 2025, complete)  
+custody logic, base explorer, early alert engine  
+- Extension v1  
+- $SPARKLIT token registry  
+- Threat pulse prototype  
+- Mini app alpha  
 
-- Lockra Engine v2 with role-based access  
-- Chrome Extension v2.1 with actionable alerts  
-- Real-Time Security Feed via WebSocket  
-- Mini App rollout and Discord signal roles
+### 🚨 Phase Two — Signal Layer (Q3 2025, active)  
+tiered scanning, sync, actionable feeds  
+- Engine v2 with roles  
+- Extension v2.1 with alerts  
+- Real-time WebSocket security feed  
+- Discord signal distribution  
 
-### 🛰 Stage Three — Horizon Layer (Planned — Q4 2025)  
-deep threat learning, cross-chain wallet intelligence, and public verdicts
+### 🌐 Phase Three — Horizon Layer (Q4 2025, planned)  
+cross-chain intelligence, ML verdicts, mobile  
+- Multi-chain wallet + token tracker  
+- AI Core v3 for threat learning  
+- Mobile beta and verdict explorer  
 
-- Multi-chain wallet and token tracker  
-- AI Core v3 for advanced threat learning  
-- Mobile app beta and public verdict explorer
+---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- TypeScript for frontend and serverless functions  
-- React + Tailwind UI for product interfaces  
-- Node.js backend services and worker processes  
-- Solana Web3.js for RPC ingestion and on-chain reads  
-- Python risk engine for signal processing and ML workflows  
-- PostgreSQL for event and audit storage  
-- Redis for caching and rate limiting  
-- REST + WebSocket APIs for integrations and real-time feeds
+- TypeScript + React/Tailwind UI  
+- Node.js serverless + workers  
+- Solana Web3.js for RPC ingestion  
+- Python AI/risk processing  
+- PostgreSQL for event storage  
+- Redis for caching + throughput  
+- REST + WebSocket APIs  
 
-## Integrations
+---
 
-- chrome extension for in-browser protection and swap analysis  
-- telegram mini app for lightweight monitoring and quick pings  
-- discord for role-based signal distribution and community alerts  
-- api endpoints for programmatic access and sdk clients
+## 🔌 Integrations
 
-## Security & Privacy
+- Chrome extension for swap protection and browsing shield  
+- Telegram mini app for lightweight signals  
+- Discord roles for live alerts  
+- API/SDK endpoints for programmatic workflows  
 
-- no private keys are stored on Lockra servers  
-- TLS 1.3 encryption for all transport layers  
-- quarterly audits and continuous monitoring for critical components  
-- privacy policy and terms available in docs
+---
 
-## Disclaimer
+## 🔒 Security
 
-- this project is not financial advice and is provided for informational and tool usage purposes only  
-- data may include derived insights and emulated scenarios for testing, always DYOR
+- No private key custody  
+- TLS 1.3 transport encryption  
+- Quarterly audits + continuous monitoring  
+- Privacy policy and terms available in docs  
 
-## Contributing
+---
 
-- open issues and pull requests welcome in the GitHub repo  
-- follow the contribution guidelines in the docs for feature requests and bug reports
+## ⚠ Disclaimer
 
+- Sparklit provides intelligence tools, not financial advice  
+- Some insights may be emulated for testing, always DYOR  
+
+---
+
+## 🤝 Contributing
+
+- Open issues and PRs in the GitHub repo  
+- Follow contribution guidelines in Docs  
