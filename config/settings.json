@@ -1,5 +1,5 @@
 {
-  "project": "ZephyraCore",
+  "project": "",
   "version": "1.0.0",
   "description": "Modular risk detection engine for Web3 transaction profiling",
   "enabledModules": [
@@ -21,13 +21,13 @@
   },
   "logging": {
     "level": "info",
-    "output": "logs/phasemap.log",
+    "output": "logs",
     "rotateDaily": true
   },
   "telemetry": {
     "enabled": true,
     "intervalMs": 60000,
-    "endpoint": "https://telemetry.phasemap.ai/ingest"
+    "endpoint": "https://telemetry.ai/ingest"
   },
   "features": {
     "autoDisableOnFailure": true,
