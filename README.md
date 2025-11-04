@@ -11,6 +11,7 @@ It unifies secure wallet control with AI-driven scanning, turning on-chain activ
 [![Docs](https://img.shields.io/badge/Docs-GitBook-9333EA?logo=bookstack&logoColor=white)](https://chainovalabs.gitbook.io/chainovalabs-docs/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@ChainovaLabs-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ChainovaLabs)  
 [![Telegram](https://img.shields.io/badge/Telegram-Community-6366F1?logo=telegram&logoColor=white)](http://t.me/ChainovaAI)  
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-6366F1?logo=telegram&logoColor=white)](https://t.me/ChainovaAI_bot)
 
 ---
 
