@@ -1,16 +1,16 @@
-# ✨ Sparklit — AI-Powered Wallet Intelligence
+# ✨ Chainova — AI-Powered Wallet Intelligence
 
-Sparklit is a custody-first intelligence layer for Solana  
+Chainova is a custody-first intelligence layer for Solana  
 It unifies secure wallet control with AI-driven scanning, turning on-chain activity into clear insights
 
 ---
 
 ## 🔗 Ecosystem
 
-[![Website](https://img.shields.io/badge/Web-sparklitcore.com-8B5CF6?logo=vercel&logoColor=white)](https://www.sparklitcore.com/)  
-[![Docs](https://img.shields.io/badge/Docs-GitBook-9333EA?logo=bookstack&logoColor=white)](https://sparklitwallet.gitbook.io/sparklitwallet-docs/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@SparklitWallet-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SparklitCore)  
-[![Telegram](https://img.shields.io/badge/Telegram-Community-6366F1?logo=telegram&logoColor=white)](https://t.me/sparklitcore)  
+[![Website](https://img.shields.io/badge/Web-chainova.app-8B5CF6?logo=vercel&logoColor=white)](https://chainova.app/)  
+[![Docs](https://img.shields.io/badge/Docs-GitBook-9333EA?logo=bookstack&logoColor=white)](https://chainovalabs.gitbook.io/chainovalabs-docs/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@ChainovaLabs-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ChainovaLabs)  
+[![Telegram](https://img.shields.io/badge/Telegram-Community-6366F1?logo=telegram&logoColor=white)](http://t.me/ChainovaAI)  
 
 ---
 
@@ -72,7 +72,7 @@ It unifies secure wallet control with AI-driven scanning, turning on-chain activ
 
 ## ⚠ Disclaimer
 
-- Sparklit provides intelligence tools, not financial advice  
+- Chainova provides intelligence tools, not financial advice  
 - Some insights may be emulated for testing, always DYOR  
 
 ---
@@ -80,4 +80,4 @@ It unifies secure wallet control with AI-driven scanning, turning on-chain activ
 ## 🤝 Contributing
 
 - Open issues and PRs in the GitHub repo  
-- Follow contribution guidelines in Docs  
+- Follow contribution guidelines in Docs
