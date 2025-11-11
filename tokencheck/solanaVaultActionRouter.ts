@@ -13,13 +13,7 @@ export interface VaultRequest {
   payload: Record<string, any>
 }
 
-/**
- * Routes a vault action to the correct instruction builder.
- *
- * @param conn - Solana RPC connection
- * @param req - The vault request payload
- * @returns Transaction object with attached instruction(s)
- */
+
 export async function routeVaultAction(
   conn: Connection,
   req: VaultRequest
