@@ -1,84 +1,85 @@
-# ✨ Chainova — AI-Powered Wallet Intelligence
+# ⚡ BagSensei — AI-Powered Wallet Analytics
 
-Chainova is a custody-first intelligence layer for Solana  
-It unifies secure wallet control with AI-driven scanning, turning on-chain activity into clear insights
-
----
-
-## 🔗 Ecosystem
-
-[![Website](https://img.shields.io/badge/Web-chainova.app-8B5CF6?logo=vercel&logoColor=white)](https://chainova.app/)  
-[![Docs](https://img.shields.io/badge/Docs-GitBook-9333EA?logo=bookstack&logoColor=white)](https://chainovalabs.gitbook.io/chainovalabs-docs/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@ChainovaLabs-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ChainovaLabs)  
-[![Telegram](https://img.shields.io/badge/Telegram-Community-6366F1?logo=telegram&logoColor=white)](http://t.me/ChainovaAI)  
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-6366F1?logo=telegram&logoColor=white)](https://t.me/ChainovaAI_bot)
+BagSensei is an AI intelligence suite for Solana  
+It fuses wallet scanning, behavioral analytics, and portfolio insights — helping traders act smarter and faster on-chain
 
 ---
 
-## ⚙ Core Agents
+## 🌐 Ecosystem
 
-- 🔍 **Scan Agent** — token anomaly checks and contract risk scoring  
-- 🐋 **Flow Agent** — whale tracing, wallet clustering, stealth mapping  
-- 📢 **Pulse Agent** — live alerts, sentiment indicators, market mood scans  
-- 🌊 **Depth Agent** — liquidity pool monitoring, swap flows, pressure signals  
-- ⚡ **Builder** — custom agent stacks tailored to trading or research styles  
+[![Website](https://img.shields.io/badge/Web-bagsensei.app-00CFFF?logo=vercel&logoColor=white)](https://bagsensei.app/)  
+[![Docs](https://img.shields.io/badge/Docs-GitBook-06B6D4?logo=bookstack&logoColor=white)](https://bagsenseix.gitbook.io/bagsenseix-docs/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@BagSenseiX-1DA1F2?logo=twitter&logoColor=white)](https://x.com/BagSenseiX)  
+[![Telegram](https://img.shields.io/badge/Telegram-Community-00A2FF?logo=telegram&logoColor=white)](https://t.me/bagsensei)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/Phasemap/BagSensei)
+
+---
+
+## 🧠 Core Agents
+
+- 🔍 **Analyzer Agent** — scans tokens and wallets for anomalies  
+- 🐋 **Observer Agent** — tracks whale movements and wallet clusters  
+- 💎 **Gem Agent** — detects new tokens with strong early signals  
+- 📈 **Signal Agent** — monitors market sentiment and trading momentum  
+- 🧩 **Strateg Agent** — builds adaptive portfolio strategies  
 
 **Example setups**  
-- Scan + Flow → forensic wallet and contract mapping  
-- Pulse + Depth → liquidity reaction + sentiment overlays  
-- Full Pack → unified 360° chain intelligence  
+- Analyzer + Observer → deep wallet & contract forensics  
+- Signal + Gem → trend alerts + alpha detection  
+- Full Stack → all-in-one on-chain awareness  
 
 ---
 
 ## 🚀 Features
 
-- Multi-wallet management with tiered roles  
-- Real-time WebSocket alerts  
-- Chrome extension for swap safety and browser-side prompts  
-- Telegram mini app for mobile monitoring  
-- Forensic dashboard for deep address analysis  
-- Export in JSON/CSV for audits and compliance  
+- Multi-wallet and portfolio tracking  
+- Real-time token and liquidity analytics  
+- Telegram Mini App with live alerts  
+- Chrome Extension for browser-based scanning  
+- AI dashboard for behavioral & forensic insights  
+- Export data in JSON/CSV for research and audits  
 
 ---
 
 ## 🛠 Tech Stack
 
 - TypeScript + React/Tailwind UI  
-- Node.js serverless + workers  
-- Solana Web3.js for RPC ingestion  
-- Python AI/risk processing  
-- PostgreSQL for event storage  
-- Redis for caching + throughput  
-- REST + WebSocket APIs  
+- Node.js serverless API  
+- Solana Web3.js for RPC parsing  
+- Python AI agents and scoring models  
+- PostgreSQL + Redis for fast data processing  
+- REST + WebSocket endpoints  
 
 ---
 
 ## 🔌 Integrations
 
-- Chrome extension for swap protection and browsing shield  
-- Telegram mini app for lightweight signals  
-- Discord roles for live alerts  
-- API/SDK endpoints for programmatic workflows  
+- Telegram Mini App for portable analytics  
+- Chrome Extension for instant scan access  
+- Discord bot for wallet alerts  
+- Public API + SDK for custom integrations  
 
 ---
 
 ## 🔒 Security
 
-- No private key custody  
-- TLS 1.3 transport encryption  
-- Quarterly audits + continuous monitoring  
-- Privacy policy and terms available in docs  
+- No private key access — read-only analytics  
+- TLS 1.3 + AES-256 encrypted connections  
+- Regular code audits  
+- Transparent privacy & terms in Docs  
 
 ---
 
 ## ⚠ Disclaimer
 
-- Chainova provides intelligence tools, not financial advice  
-- Some insights may be emulated for testing, always DYOR  
+- BagSensei provides AI-powered analytical tools — not financial advice  
+- All insights are for educational and research purposes only  
 
 ---
 
 ## 🤝 Contributing
 
-- Open issues and PRs in the GitHub repo  
-- Follow contribution guidelines in Docs
+- Open issues & PRs on GitHub  
+- Follow contribution guidelines in our Docs  
+
+---
