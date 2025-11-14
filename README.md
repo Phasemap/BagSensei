@@ -15,71 +15,70 @@ It fuses wallet scanning, behavioral analytics, and portfolio insights — helpi
 
 ---
 
-## 🧠 Core Agents
 
-- 🔍 **Analyzer Agent** — scans tokens and wallets for anomalies  
-- 🐋 **Observer Agent** — tracks whale movements and wallet clusters  
-- 💎 **Gem Agent** — detects new tokens with strong early signals  
-- 📈 **Signal Agent** — monitors market sentiment and trading momentum  
-- 🧩 **Strateg Agent** — builds adaptive portfolio strategies  
+## 🧪 Example Setups
 
-**Example setups**  
-- Analyzer + Observer → deep wallet & contract forensics  
-- Signal + Gem → trend alerts + alpha detection  
-- Full Stack → all-in-one on-chain awareness  
+**Analyzer + Observer** → deep wallet forensics + token risk mapping  
+**Signal + Gem** → trend awareness + early opportunity detection  
+**Full Stack** → complete on-chain visibility for active traders
 
 ---
 
 ## 🚀 Features
 
-- Multi-wallet and portfolio tracking  
-- Real-time token and liquidity analytics  
-- Telegram Mini App with live alerts  
-- Chrome Extension for browser-based scanning  
-- AI dashboard for behavioral & forensic insights  
-- Export data in JSON/CSV for research and audits  
+- Multi-wallet tracking (read-only)
+- Real-time token analytics (price, LP, risk, distribution)
+- Wallet portfolio insights
+- Signal Log for activity history
+- AI Chat for explanations and on-chain concepts
+- Web App with adaptive layout (now mobile-optimized)
+- Token Scanner with contract, holder, and liquidity breakdowns
+
+**No simulated data — all analytics use live on-chain sources**
 
 ---
 
 ## 🛠 Tech Stack
 
-- TypeScript + React/Tailwind UI  
-- Node.js serverless API  
-- Solana Web3.js for RPC parsing  
-- Python AI agents and scoring models  
-- PostgreSQL + Redis for fast data processing  
-- REST + WebSocket endpoints  
+- TypeScript, React, Tailwind for UI
+- Node.js serverless API
+- Solana RPC via Web3.js
+- Python for AI scoring logic
+- PostgreSQL / Redis for caching & performance
+- REST + WebSocket endpoints
+
+*(All technologies actually used in the project — no artificial stacking.)*
 
 ---
 
 ## 🔌 Integrations
 
-- Telegram Mini App for portable analytics  
-- Chrome Extension for instant scan access  
-- Discord bot for wallet alerts  
-- Public API + SDK for custom integrations  
+- Telegram Mini App — portable scanning & quick risk checks *(coming)*
+- Chrome Extension — instant token/wallet scanner *(coming)*
+- Web App — full analytics suite
+- Public GitHub Docs — system transparency
+
+*(Discord bot removed — not planned right now.)*
 
 ---
 
 ## 🔒 Security
 
-- No private key access — read-only analytics  
-- TLS 1.3 + AES-256 encrypted connections  
-- Regular code audits  
-- Transparent privacy & terms in Docs  
+- Read-only analytics — no private key access
+- TLS 1.3 encrypted communication
+- Transparent privacy policy in Docs
+- Dev tokens & liquidity locks verifiable via Streamflow
 
 ---
 
 ## ⚠ Disclaimer
 
-- BagSensei provides AI-powered analytical tools — not financial advice  
-- All insights are for educational and research purposes only  
+BagSensei provides AI-powered analytical tools — **not financial advice**  
+All results are informational and meant for research
 
 ---
 
 ## 🤝 Contributing
 
-- Open issues & PRs on GitHub  
-- Follow contribution guidelines in our Docs  
-
----
+Open issues & PRs on GitHub  
+Follow contribution guidelines in the Docs
