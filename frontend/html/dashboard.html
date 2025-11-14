@@ -1,11 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Tools Dashboard</title>
+  <meta charset="UTF-8">
+  <title>Token Monitor · Tools Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Token Monitor dashboard for real-time on-chain analytics">
   <link rel="stylesheet" href="../css/dashboard.css">
 </head>
 <body>
-  <h1> Token Monitor</h1>
-  <div id="app"></div>
+  <div class="dashboard-root">
+    <header class="dashboard-header">
+      <div class="header-left">
+        <span class="app-badge">BagSensei Tools</span>
+        <span class="app-title">Token Monitor</span>
+      </div>
+      <div class="header-right">
+        <span class="env-indicator">Production</span>
+        <span class="status-indicator status-ok">All systems operational</span>
+      </div>
+    </header>
+
+    <main class="dashboard-main">
+      <aside class="dashboard-sidebar">
+        <nav class="sidebar-nav">
+          <a href="./overview.html" class="nav-link">Overview</a>
+          <a href="./token-monitor.html" class="nav-link nav-link-active">Token Monitor</a>
+          <a href="./wallet-tracker.html" class="nav-link">Wallet Tracker</a>
+          <a href="./logs.html" class="nav-link">Signal Log</a>
+          <a href="./settings.html" class="nav-link">Settings</a>
+        </nav>
+      </aside>
+
+      <section class="dashboard-content">
+        <header class="page-header">
+          <div class="page-header-main">
+            <h1 class="page-title">Token Monitor</h1>
+            <p class="page-subtitle">
+              Track tokens in real time, review risk metrics, and jump into detailed analysis from a single dashboard
+            </p>
+          </div>
+          <div class="page-header-actions">
+            <button type="button" class="btn btn-primary" id="add-token-button">
+              Add token to watchlist
+            </button>
+            <button type="button" class="btn btn-secondary" id="refresh-all-button">
+              Refresh data
+            </button>
+          </div>
+        </header>
+
+        <section class="page-meta">
+          <div class="meta-item">
+            <span class="meta-label">Tracked tokens</span>
+            <span class="meta-value" id="tracked-tokens-count">0</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Last update</span>
+            <span class="meta-value" id="last-update-label">Not synced yet</span>
+          </div>
+        </section>
+
+        <section class="page-body">
+          <!-- React or other frontend app mounts here -->
+          <div id="app"></div>
+
+          <!-- Optional static empty state if JS has not loaded yet -->
+          <div class="empty-state" id="app-fallback">
+            <h2 class="empty-title">Waiting for data</h2>
+            <p class="empty-text">
+              Connect your data source and add tokens to start monitoring real-time on-chain activity
+            </p>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <footer class="dashboard-footer">
+      <span class="footer-text">BagSensei Tools · Token Monitor</span>
+    </footer>
+  </div>
+
+  <script src="../js/dashboard.js"></script>
 </body>
 </html>
